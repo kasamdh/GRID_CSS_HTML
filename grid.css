@@ -10,12 +10,12 @@ body {
   font-size: 22px;
 }
 
-.container {
+/* .container {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   margin-top: 250px;
   grid-gap: 20px;
-}
+} */
 
 .cm-item {
   background-color: var(--white);
